@@ -1,0 +1,5 @@
+#include "stm32f4xx_hal.h"
+#include "stm32f4xx_hal_i2c.h"
+#include "string.h"
+#include "stdlib.h"
+#include "eeprom/re_app_eeprom.h"
